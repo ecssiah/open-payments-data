@@ -1,0 +1,4469 @@
+[
+  {
+    "identifier": "c16b8ea8-382d-5e69-8aa3-67feadcbe3f1",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2015 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2015_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ec4c9857a4a4f2cb3cd765393d5973e9__1652923542__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2015_P06302022.csv",
+            "identifier": "ec4c9857a4a4f2cb3cd765393d5973e9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923542",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "2c6b85eb-d114-5c2a-bd14-b8374205069f",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2016_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "06300d2d6d073bea38f6d3ac0fff56b7__1652923542__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2016_P06302022.csv",
+            "identifier": "06300d2d6d073bea38f6d3ac0fff56b7",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923542",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9ba88920-2c78-59ce-bd3a-014e5e79901c",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2017_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "1979db194b699119e533af5bc66c51b2__1652923543__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2017_P06302022.csv",
+            "identifier": "1979db194b699119e533af5bc66c51b2",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923543",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7e5d9b5a-b7ac-5fd5-b9ea-9c3259855ada",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2018_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "bf1ecf9d65b0f712a710f0fc951d7694__1652923543__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2018_P06302022.csv",
+            "identifier": "bf1ecf9d65b0f712a710f0fc951d7694",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923543",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "5e08488e-eadd-5e82-a4f0-01a540ea0917",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2019_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "1bc9785a634bb8f8ed27055d1ac7d5cf__1652923543__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2019_P06302022.csv",
+            "identifier": "1bc9785a634bb8f8ed27055d1ac7d5cf",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923543",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e51be53b-ed10-5fa5-819b-7c2474fbdea9",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2020_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0f138bffcde57b209eedbf520bbabba9__1652923543__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2020_P06302022.csv",
+            "identifier": "0f138bffcde57b209eedbf520bbabba9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923543",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "28c11f4d-b568-52ee-8050-08602dbc43b8",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://openpaymentsdata.cms.gov/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2021_P06302022.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "107aba4b1018ac96817ae4bfe113bf0e__1652923543__source",
+          "data": {
+            "filePath": "https://h-o.st/sites/default/files/harvest2022-06/data/OP_DTL_GNRL_PGYR2021_P06302022.csv",
+            "identifier": "107aba4b1018ac96817ae4bfe113bf0e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1652923543",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1fff1b3e-16a7-531b-9479-312d1f4c1121",
+    "data": {
+      "title": "2015 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2015_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e0a3b741665a049ff766a6be2b11ebe9__1673360754__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2015_P01202023_01042023.csv",
+            "identifier": "e0a3b741665a049ff766a6be2b11ebe9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360754",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "17815a49-4e57-51a2-addb-35e2cf4cbe5b",
+    "data": {
+      "title": "2016 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "330205010eac538a7cd88bc1526e6b85__1673360754__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01202023_01042023.csv",
+            "identifier": "330205010eac538a7cd88bc1526e6b85",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360754",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "28deb054-59be-56a0-8105-44e37be7b271",
+    "data": {
+      "title": "2017 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "2554e7a0b195fd2ca8af1d165bf7a470__1673360755__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01202023_01042023.csv",
+            "identifier": "2554e7a0b195fd2ca8af1d165bf7a470",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360755",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b27df5f5-e509-5c4f-bc5c-77fc22e656f0",
+    "data": {
+      "title": "2018 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "da37371c987c5d5cdaa5c011ab604437__1673360756__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01202023_01042023.csv",
+            "identifier": "da37371c987c5d5cdaa5c011ab604437",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360756",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6cf00b66-e3c6-5e60-a8f6-cd73ae335eae",
+    "data": {
+      "title": "2019 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "2f5bd752d95272c18952296faa0bc368__1673360757__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01202023_01042023.csv",
+            "identifier": "2f5bd752d95272c18952296faa0bc368",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360757",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b683b891-47ff-5280-831e-3a8e53479635",
+    "data": {
+      "title": "2020 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "f1ce97388dd2d6dcfc69eedbe4609030__1673360757__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01202023_01042023.csv",
+            "identifier": "f1ce97388dd2d6dcfc69eedbe4609030",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360757",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "bf5f2d4a-e10c-574f-bf81-b570944b6d0e",
+    "data": {
+      "title": "2021 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "dde1ae7929823abe7c6a3c68e3c9d4cc__1673360758__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01202023_01042023.csv",
+            "identifier": "dde1ae7929823abe7c6a3c68e3c9d4cc",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360758",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b129c33f-e2a8-5f10-bc4b-bc24b7a48ac1",
+    "data": {
+      "title": "Payments grouped by reporting entities, covered recipient, and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "00a425bf5e395e20d8be0cef2a25611a__1673360759__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01202023_01042023.csv",
+            "identifier": "00a425bf5e395e20d8be0cef2a25611a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360759",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "32597bc9-4c0a-5767-ac5f-6b92c4f0f51e",
+    "data": {
+      "title": "2015 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2015_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "a32e5bcd554948a42e6d8e332793f2e0__1673360760__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2015_P01202023_01042023.csv",
+            "identifier": "a32e5bcd554948a42e6d8e332793f2e0",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360760",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "bc7a0573-f391-59e9-8042-3fba761b879c",
+    "data": {
+      "title": "2016 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2016_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d57219b40c2406a0d711fd3e17c002c7__1673360761__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2016_P01202023_01042023.csv",
+            "identifier": "d57219b40c2406a0d711fd3e17c002c7",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360761",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "65ac227c-3e15-597a-945e-bcbc65069a09",
+    "data": {
+      "title": "2017 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2017_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ed9573e2162ab4ce39e7ded12bfd5877__1673360761__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2017_P01202023_01042023.csv",
+            "identifier": "ed9573e2162ab4ce39e7ded12bfd5877",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360761",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7d568b7f-a1d9-5ece-ae68-593040cf0c62",
+    "data": {
+      "title": "2018 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2018_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "4cf59a619c314b69756e3975881c3e01__1673360762__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2018_P01202023_01042023.csv",
+            "identifier": "4cf59a619c314b69756e3975881c3e01",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360762",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6053cbec-cda6-52be-b528-87d850db88cd",
+    "data": {
+      "title": "2019 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2019_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "25d545e8dc07abbc62e1d998f1b3d62a__1673360763__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2019_P01202023_01042023.csv",
+            "identifier": "25d545e8dc07abbc62e1d998f1b3d62a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360763",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1986f2d0-33f9-5071-981d-d2e99f2b0973",
+    "data": {
+      "title": "2020 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2020_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5aecafc0a562e844e90604d4a47cb394__1673360764__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2020_P01202023_01042023.csv",
+            "identifier": "5aecafc0a562e844e90604d4a47cb394",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360764",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1a92b3ce-02d3-5842-bb88-0df6a19a4b65",
+    "data": {
+      "title": "2021 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2021_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d240871fc7714281788e511de161b2f2__1673360765__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2021_P01202023_01042023.csv",
+            "identifier": "d240871fc7714281788e511de161b2f2",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360765",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "72accd9f-2bbb-556b-90f0-0b85d56e704e",
+    "data": {
+      "title": "Payments grouped by reporting entities and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYRall_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "6ef2211abca2f7d95ffd6295cf8ae0fb__1673360765__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYRall_P01202023_01042023.csv",
+            "identifier": "6ef2211abca2f7d95ffd6295cf8ae0fb",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360765",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "ebd00acb-97ed-563f-9b82-974a385e18b1",
+    "data": {
+      "title": "2015 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2015_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "adfc5788b06c16659e687357617cfc1f__1673360766__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2015_P01202023_01042023.csv",
+            "identifier": "adfc5788b06c16659e687357617cfc1f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360766",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "413ad429-29e1-5b49-af6c-53b256c27141",
+    "data": {
+      "title": "2016 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "224b4ff9269305a490132fd6efafe0ca__1673360767__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01202023_01042023.csv",
+            "identifier": "224b4ff9269305a490132fd6efafe0ca",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360767",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9660fef3-d7c2-5dd7-850b-b3e62c4ea633",
+    "data": {
+      "title": "2017 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7146a65adcf5b4e618a86360f8e73614__1673360768__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01202023_01042023.csv",
+            "identifier": "7146a65adcf5b4e618a86360f8e73614",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360768",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "71a01dcb-5711-5f66-9ec8-51330c15c643",
+    "data": {
+      "title": "2018 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0b990297bb3b0c2108cf0de86a3fdf73__1673360768__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01202023_01042023.csv",
+            "identifier": "0b990297bb3b0c2108cf0de86a3fdf73",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360768",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f7ae857a-4087-547f-b306-851468e60978",
+    "data": {
+      "title": "2019 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "507f2bb8f589ac665afb18c52f74d6a7__1673360769__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01202023_01042023.csv",
+            "identifier": "507f2bb8f589ac665afb18c52f74d6a7",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360769",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "00b31c73-9e11-5e23-b5b0-5dc8498ee133",
+    "data": {
+      "title": "2020 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9c6d30bdcf3be3e2634c73f3bc0fa585__1673360770__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01202023_01042023.csv",
+            "identifier": "9c6d30bdcf3be3e2634c73f3bc0fa585",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360770",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "fc873f8b-8c3b-5b39-866e-5f1667cb6db2",
+    "data": {
+      "title": "2021 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "f0c345a5616f1f97af5635d3e4cf4e85__1673360771__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01202023_01042023.csv",
+            "identifier": "f0c345a5616f1f97af5635d3e4cf4e85",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360771",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6edcb651-eb86-5105-ae53-77381e8a39a2",
+    "data": {
+      "title": "Payments grouped by covered recipient and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "baf026d7de7eacf02d3cf777d03f0947__1673360772__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01202023_01042023.csv",
+            "identifier": "baf026d7de7eacf02d3cf777d03f0947",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360772",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "cec4e88a-2b25-5cf9-a96f-c9f2330581aa",
+    "data": {
+      "title": "Summary Dashboard - all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_DSHBRD_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "8aa0a081b450b14d6be39c36e0977d54__1673360772__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_DSHBRD_P01202023_01042023.csv",
+            "identifier": "8aa0a081b450b14d6be39c36e0977d54",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360772",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "701e9883-69e1-5e20-9b60-7d6a2bc08337",
+    "data": {
+      "title": "National level payment total and averages for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_NTNL_SMRY_P01202023_01042023-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "1cdc3921477bb000ee222755cb5d0c45__1673360773__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_NTNL_SMRY_P01202023_01042023-joined.csv",
+            "identifier": "1cdc3921477bb000ee222755cb5d0c45",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360773",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "d978b669-7eae-5910-8648-aa0e8f910834",
+    "data": {
+      "title": "Physician (distinct) profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_PRFL_SRCH_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9a6c8a310fa5e7aaede9a9b5ae9e3a94__1673360774__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_PRFL_SRCH_P01202023_01042023.csv",
+            "identifier": "9a6c8a310fa5e7aaede9a9b5ae9e3a94",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360774",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "fbcb880a-acc6-576b-a85a-eec87516894a",
+    "data": {
+      "title": "Payments grouped by physician (distinct) for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_SMRY_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "2d525c4ace12b2619f8da8ccd5587fd2__1673360775__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_SMRY_P01202023_01042023.csv",
+            "identifier": "2d525c4ace12b2619f8da8ccd5587fd2",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360775",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "4c76aee3-fadf-5698-8ccc-de1b62307902",
+    "data": {
+      "title": "Reporting entity profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_RPTG_ORG_PRFL_SRCH_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "edad2778e5b9ab7917095d6b18ee70c4__1673360776__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_RPTG_ORG_PRFL_SRCH_P01202023_01042023.csv",
+            "identifier": "edad2778e5b9ab7917095d6b18ee70c4",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360776",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "3b9fd3b0-fcdd-5fde-a63a-7e7056001091",
+    "data": {
+      "title": "Payments grouped by reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_RPTG_ORG_SMRY_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "214cd462aec232f2c8bfe277f186e53c__1673360776__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_RPTG_ORG_SMRY_P01202023_01042023.csv",
+            "identifier": "214cd462aec232f2c8bfe277f186e53c",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360776",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a973ecf4-c24a-5c8f-aa17-5a8817a96308",
+    "data": {
+      "title": "2015 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2015_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "94d0b43a9c62380fff30a23542a45892__1673360777__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2015_P01202023_01042023.csv",
+            "identifier": "94d0b43a9c62380fff30a23542a45892",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360777",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b2453435-15c5-5c14-904a-f7311b93c91f",
+    "data": {
+      "title": "2016 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2016_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "45b3836f2a48e4289d762cc3e65965c4__1673360778__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2016_P01202023_01042023.csv",
+            "identifier": "45b3836f2a48e4289d762cc3e65965c4",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360778",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "3d194ff3-455c-5416-bd2e-a4fa40e47305",
+    "data": {
+      "title": "2017 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2017_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7170591a473713a374f1a5920fe773f2__1673360779__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2017_P01202023_01042023.csv",
+            "identifier": "7170591a473713a374f1a5920fe773f2",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360779",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "54dbf135-1bda-5090-b42b-c21cb5a1f9b3",
+    "data": {
+      "title": "2018 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2018_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e741021fb43a5915080d8733b6a6b201__1673360780__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2018_P01202023_01042023.csv",
+            "identifier": "e741021fb43a5915080d8733b6a6b201",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360780",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "755fd943-b225-5831-830f-8843d8cd6f0f",
+    "data": {
+      "title": "2019 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2019_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e3b39dcce46dac72cfd9f67085666a0a__1673360780__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2019_P01202023_01042023.csv",
+            "identifier": "e3b39dcce46dac72cfd9f67085666a0a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360780",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "48e67df6-645d-5919-8ed8-90e1692405b3",
+    "data": {
+      "title": "2020 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2020_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "61c23be352f7e5d4d0b6d647a93f9381__1673360781__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2020_P01202023_01042023.csv",
+            "identifier": "61c23be352f7e5d4d0b6d647a93f9381",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360781",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "df4410a6-50e8-55cd-8484-cd7a9f2a506f",
+    "data": {
+      "title": "2021 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2021_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "a76772b289c2a9c7a950fb856d8c6fe4__1673360782__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2021_P01202023_01042023.csv",
+            "identifier": "a76772b289c2a9c7a950fb856d8c6fe4",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360782",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "4d95d044-3003-5833-8174-c3345e860060",
+    "data": {
+      "title": "Payments grouped by covered recipient and reporting entities for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYRall_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "50e3f0b6bc410218d8505a50b8b324e9__1673360783__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYRall_P01202023_01042023.csv",
+            "identifier": "50e3f0b6bc410218d8505a50b8b324e9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360783",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "128f8e8c-21e0-50ce-8226-1515ecefaa0d",
+    "data": {
+      "title": "National level payment total and averages by provider specialty for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SPLTY_SMRY_P01202023_01042023-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "35123ac8c546455b32595cc9d6f8cc6d__1673360784__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_SPLTY_SMRY_P01202023_01042023-joined.csv",
+            "identifier": "35123ac8c546455b32595cc9d6f8cc6d",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360784",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e5c91d84-2e84-5991-9c5b-b00d93c202b2",
+    "data": {
+      "title": "Teaching Hospital profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_TH_PRFL_SRCH_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9265d646963d21c4feedd9d7dc161e44__1673360784__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_TH_PRFL_SRCH_P01202023_01042023.csv",
+            "identifier": "9265d646963d21c4feedd9d7dc161e44",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360784",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "398ce946-cbbe-56e7-92a2-9c4522ad1247",
+    "data": {
+      "title": "Payments grouped by Teaching Hospital",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_TH_SMRY_P01202023_01042023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b815ea70acb4c3625570ce1618fda3d3__1673360785__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_TH_SMRY_P01202023_01042023.csv",
+            "identifier": "b815ea70acb4c3625570ce1618fda3d3",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360785",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "bd0ae158-dc5d-5645-b421-a56bca9b2f65",
+    "data": {
+      "title": "Profile Information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/all-entities-profile-search.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "8c50ce739fdaf2caab7f78664ef13b9e__1673360786__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/all-entities-profile-search.csv",
+            "identifier": "8c50ce739fdaf2caab7f78664ef13b9e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360786",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "442878b9-b4e2-58db-bffb-88a2e240aef1",
+    "data": {
+      "title": "Summary Dashboard - all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PHPRFL_P012023/OP_CVRD_RCPNT_PRFL_SPLMTL_P01202023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d9e6812bc078690997fa693652aabbe6__1673360787__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PHPRFL_P012023/OP_CVRD_RCPNT_PRFL_SPLMTL_P01202023.csv",
+            "identifier": "d9e6812bc078690997fa693652aabbe6",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360787",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e37d728e-376b-5cb5-842b-e031d4863017",
+    "data": {
+      "title": "State level payment total and averages for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_STATE_SMRY_P01202023_01042023-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5b8d11af6dbe4d82a305b6f8c431db3e__1673360788__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01202023/PBLCTN_STATE_SMRY_P01202023_01042023-joined.csv",
+            "identifier": "5b8d11af6dbe4d82a305b6f8c431db3e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1673360788",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "d6a4c192-42c9-5f36-85eb-4ab2f16bb8da",
+    "data": {
+      "@type": "dcat:Distribution",
+      "title": "General Payment Data – Detailed Dataset 2018 Reporting Year",
+      "format": "csv",
+      "mediaType": "text/csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P063023/OP_DTL_GNRL_PGYR2018_P06302023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "cda271445c3d67df16ed222f7bc78e67__1687535371__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P063023/OP_DTL_GNRL_PGYR2018_P06302023.csv",
+            "identifier": "cda271445c3d67df16ed222f7bc78e67",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1687535371",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "02ed78a8-85e9-53a3-b1ec-2869cfc236fd",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/PGYR16_P011824/OP_DTL_GNRL_PGYR2016_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "310e07991df524515dcc18f7999880e1__1701358260__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/PGYR16_P011824/OP_DTL_GNRL_PGYR2016_P01182024.csv",
+            "identifier": "310e07991df524515dcc18f7999880e1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1701358260",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7253a0ac-d800-5e59-8821-27dd0256e210",
+    "data": {
+      "title": "2016 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b94f52c1a15cbbbd0a6f4189209175c8__1703657014__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_12172023.csv",
+            "identifier": "b94f52c1a15cbbbd0a6f4189209175c8",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657014",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e6e1a543-b15b-560f-a7c0-e984f54ed812",
+    "data": {
+      "title": "2017 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9235eef9a9edd1fe89e442d6a9427e8f__1703657015__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_12172023.csv",
+            "identifier": "9235eef9a9edd1fe89e442d6a9427e8f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657015",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "eddf7a32-6ddb-552c-a86d-e9c7a7387b16",
+    "data": {
+      "title": "2018 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "276c73169f26caa96eee916a1517247b__1703657017__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_12172023.csv",
+            "identifier": "276c73169f26caa96eee916a1517247b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657017",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "aa3e12eb-0e9f-537b-9eb2-a725c1ca4b7a",
+    "data": {
+      "title": "2019 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0a64971f7dbf40d913a0ffb87dd298fa__1703657018__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_12172023.csv",
+            "identifier": "0a64971f7dbf40d913a0ffb87dd298fa",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657018",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "92bfd4ea-6e4a-5599-ba73-e1edbbe999be",
+    "data": {
+      "title": "2020 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "3de0d0049d30e14e372b2dcc8c8d4ff9__1703657020__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_12172023.csv",
+            "identifier": "3de0d0049d30e14e372b2dcc8c8d4ff9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657020",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "72f723a8-08de-56fe-b6d2-e9f87875e45e",
+    "data": {
+      "title": "2021 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9a9e78bd053059d073062bfa1bef7f53__1703657022__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_12172023.csv",
+            "identifier": "9a9e78bd053059d073062bfa1bef7f53",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657022",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e04c5010-3677-58ce-a3dc-bfedf8dacc21",
+    "data": {
+      "title": "2022 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7e8e1392be30a958a09718213ad84ccd__1703657023__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_12172023.csv",
+            "identifier": "7e8e1392be30a958a09718213ad84ccd",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657023",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "05afc6ca-8612-5062-9fd0-ae54c5dd62d5",
+    "data": {
+      "title": "2016 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2016_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "4dd9551e6496dc4f86d683b0427ce9ad__1703657025__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2016_P01182024_12172023.csv",
+            "identifier": "4dd9551e6496dc4f86d683b0427ce9ad",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657025",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a89d2f88-64f2-5757-8efc-61d5136493c1",
+    "data": {
+      "title": "2017 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2017_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c8715eaa8cfbd0b4098f2cc193c8fcfd__1703657026__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2017_P01182024_12172023.csv",
+            "identifier": "c8715eaa8cfbd0b4098f2cc193c8fcfd",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657026",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "67ecad2e-f2a3-50ed-9018-cfe0ae0a2f2a",
+    "data": {
+      "title": "2018 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2018_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9baf8b2f373e8a9c039ba13563fac5bf__1703657028__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2018_P01182024_12172023.csv",
+            "identifier": "9baf8b2f373e8a9c039ba13563fac5bf",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657028",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "96e23793-e0db-597d-a714-a0f42df946bc",
+    "data": {
+      "title": "2019 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2019_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e3ac1787c6ee1e8c56df8197ea816cd0__1703657030__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2019_P01182024_12172023.csv",
+            "identifier": "e3ac1787c6ee1e8c56df8197ea816cd0",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657030",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "537db7ef-0253-56c4-bc2c-f08a77367498",
+    "data": {
+      "title": "2020 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2020_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c858a4a7bb576c703702c1789aff0f57__1703657031__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2020_P01182024_12172023.csv",
+            "identifier": "c858a4a7bb576c703702c1789aff0f57",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657031",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1471c0f2-3460-53a1-a734-7979d8058934",
+    "data": {
+      "title": "2021 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2021_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "042f19271d61b7901fc0f0580bab85c8__1703657033__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2021_P01182024_12172023.csv",
+            "identifier": "042f19271d61b7901fc0f0580bab85c8",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657033",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9d2d0b6f-67a9-5b3c-93df-8870166d6185",
+    "data": {
+      "title": "2022 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2022_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "cf8fdcfc9a4f5f0ecc6393d2a311a3fe__1703657034__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2022_P01182024_12172023.csv",
+            "identifier": "cf8fdcfc9a4f5f0ecc6393d2a311a3fe",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657034",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "80bacae2-6b0e-5e10-b275-30abd9d81c00",
+    "data": {
+      "title": "Payments grouped by reporting entities and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYRall_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0b01b8f0f6f13a946f05d86c517a94cb__1703657036__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYRall_P01182024_12172023.csv",
+            "identifier": "0b01b8f0f6f13a946f05d86c517a94cb",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657036",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c394dca3-5048-5995-9e53-655ae50bb7d6",
+    "data": {
+      "title": "2016 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d712f84baa6f95c1317a11857aebd6c5__1703657038__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_12172023.csv",
+            "identifier": "d712f84baa6f95c1317a11857aebd6c5",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657038",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6c90703b-a754-5139-b610-716801153f9e",
+    "data": {
+      "title": "2017 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "fa8c29ad38aa2c21c98485800efb6379__1703657039__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_12172023.csv",
+            "identifier": "fa8c29ad38aa2c21c98485800efb6379",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657039",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c1fcfe57-184c-5260-86c8-84b6c63b3a33",
+    "data": {
+      "title": "2018 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c4b8818e799e23fcbce5980cbb921f4c__1703657041__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_12172023.csv",
+            "identifier": "c4b8818e799e23fcbce5980cbb921f4c",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657041",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c350dfaa-0bd0-5b2a-aa8e-cf2442b498eb",
+    "data": {
+      "title": "2019 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "869f0c4fdd2a7f839e517db696c5f4b0__1703657043__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_12172023.csv",
+            "identifier": "869f0c4fdd2a7f839e517db696c5f4b0",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657043",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1ff75167-f335-52e1-ad20-ec99e248bf2a",
+    "data": {
+      "title": "2020 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "dd066e24d502e4aa7f860ea60775c30f__1703657044__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_12172023.csv",
+            "identifier": "dd066e24d502e4aa7f860ea60775c30f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657044",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e8f032e4-4881-5642-97e1-e42777ccd979",
+    "data": {
+      "title": "2021 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "1e5fe84fbdbbff151bfafa79ea1a1594__1703657046__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_12172023.csv",
+            "identifier": "1e5fe84fbdbbff151bfafa79ea1a1594",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657046",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "56875abc-c5a9-5ab6-8e32-b1068d905cea",
+    "data": {
+      "title": "2022 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "87d5fcab38fa873c58a3f24f0b6fb565__1703657047__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_12172023.csv",
+            "identifier": "87d5fcab38fa873c58a3f24f0b6fb565",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657047",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "232e9083-6338-50b2-9caf-91aa05d388bc",
+    "data": {
+      "title": "Payments grouped by covered recipient and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7f35fbae4af52d17e8370a2704624034__1703657049__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_12172023.csv",
+            "identifier": "7f35fbae4af52d17e8370a2704624034",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657049",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "bbfc3aa0-9076-5763-ae48-dcde632fe78b",
+    "data": {
+      "title": "Summary Dashboard - all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_DSHBRD_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9cf395a5a23ded0326075af8d94e3593__1703657051__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_DSHBRD_P01182024_12172023.csv",
+            "identifier": "9cf395a5a23ded0326075af8d94e3593",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657051",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "2ca85f8d-feee-58f1-8b24-0900a66ee687",
+    "data": {
+      "title": "National level payment total and averages for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTNL_SMRY_P01182024_12172023-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "2c44a3d9b4748374238a6437d7fa571b__1703657053__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTNL_SMRY_P01182024_12172023-joined.csv",
+            "identifier": "2c44a3d9b4748374238a6437d7fa571b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657053",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "cea0fa18-c4ed-59c8-8280-8895c7b16269",
+    "data": {
+      "title": "Physician (distinct) profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_PRFL_SRCH_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "bf62382196e22134ab6b4b8694377c5b__1703657054__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_PRFL_SRCH_P01182024_12172023.csv",
+            "identifier": "bf62382196e22134ab6b4b8694377c5b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657054",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "2a42225f-39fd-569d-8a3e-b6a056307e53",
+    "data": {
+      "title": "Reporting entity profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_RPTG_ORG_PRFL_SRCH_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "955419e94a92ff5b4cc18bff76ae0319__1703657056__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_RPTG_ORG_PRFL_SRCH_P01182024_12172023.csv",
+            "identifier": "955419e94a92ff5b4cc18bff76ae0319",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657056",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a0af50a3-f04c-5235-ae75-225651fb016f",
+    "data": {
+      "title": "Payments grouped by reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_RPTG_ORG_SMRY_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d5bd5eb3eb092fe60eb8742537103394__1703657058__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_RPTG_ORG_SMRY_P01182024_12172023.csv",
+            "identifier": "d5bd5eb3eb092fe60eb8742537103394",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657058",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "422e027b-ec06-5de8-8666-6a9883b7238d",
+    "data": {
+      "title": "2016 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2016_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "f4407eca264a25916bfde4756e622d6e__1703657059__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2016_P01182024_12172023.csv",
+            "identifier": "f4407eca264a25916bfde4756e622d6e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657059",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "60e19259-9c54-5ed3-a9ce-e3433d4e698c",
+    "data": {
+      "title": "2017 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2017_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0d990b4c63ab7f84c04457149886e4b3__1703657061__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2017_P01182024_12172023.csv",
+            "identifier": "0d990b4c63ab7f84c04457149886e4b3",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657061",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b32aa580-f919-5d3f-afb2-d9610412e226",
+    "data": {
+      "title": "2018 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2018_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0ac23e5acd1dcf8b556420e341c30ed0__1703657063__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2018_P01182024_12172023.csv",
+            "identifier": "0ac23e5acd1dcf8b556420e341c30ed0",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657063",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a921d231-3948-590d-955d-bf52ee4d7e6c",
+    "data": {
+      "title": "2019 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2019_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "46cc30bef89ddad060d9d2ed02206ebf__1703657064__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2019_P01182024_12172023.csv",
+            "identifier": "46cc30bef89ddad060d9d2ed02206ebf",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657064",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6840d2ea-1314-56ab-a938-005394f1e1f5",
+    "data": {
+      "title": "2020 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2020_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0f04a9a93a51c952a2222431916b6900__1703657066__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2020_P01182024_12172023.csv",
+            "identifier": "0f04a9a93a51c952a2222431916b6900",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657066",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b99c91e0-c3a4-5ae4-ae42-54660abf1838",
+    "data": {
+      "title": "2021 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2021_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e632cb7f98633eddd25ff92fadd2d737__1703657068__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2021_P01182024_12172023.csv",
+            "identifier": "e632cb7f98633eddd25ff92fadd2d737",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657068",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c8c0555c-803a-5f45-bbc0-eb1af89191d7",
+    "data": {
+      "title": "2022 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2022_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b3e18af6f1fdd10725d467dcf43f7cd6__1703657069__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2022_P01182024_12172023.csv",
+            "identifier": "b3e18af6f1fdd10725d467dcf43f7cd6",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657069",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "92505278-fe1d-5665-8865-183fd421204e",
+    "data": {
+      "title": "National level payment total and averages by provider specialty for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SPLTY_SMRY_P01182024_12172023-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "8bc5e1a2a95d527a0b9cbd106c8eda4c__1703657071__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SPLTY_SMRY_P01182024_12172023-joined.csv",
+            "identifier": "8bc5e1a2a95d527a0b9cbd106c8eda4c",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657071",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1a43fa4c-26cd-5ab8-9f01-a05deb030321",
+    "data": {
+      "title": "Teaching Hospital profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_TH_PRFL_SRCH_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "214e4a0d4e74ba0622b25fea0ebd722a__1703657073__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_TH_PRFL_SRCH_P01182024_12172023.csv",
+            "identifier": "214e4a0d4e74ba0622b25fea0ebd722a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657073",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e36257e1-566d-5420-bf7a-1ca90b2ab5d8",
+    "data": {
+      "title": "Payments grouped by Teaching Hospital",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_TH_SMRY_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "afabdc74c3848d9721c87c1099071108__1703657074__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_TH_SMRY_P01182024_12172023.csv",
+            "identifier": "afabdc74c3848d9721c87c1099071108",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657074",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "57d27774-0b90-5629-8491-0aa4d28745b8",
+    "data": {
+      "title": "Profile Information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/all-entities-profile-search.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "34f13b264f9656f0c4475e1eb1c7f871__1703657076__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/all-entities-profile-search.csv",
+            "identifier": "34f13b264f9656f0c4475e1eb1c7f871",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657076",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "30107d19-bf66-5403-ac3f-08f46e6a90d6",
+    "data": {
+      "title": "State level payment total and averages for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_STATE_SMRY_P01182024_12172023-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "cd8c1e705732d0330d63991683144811__1703657078__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_STATE_SMRY_P01182024_12172023-joined.csv",
+            "identifier": "cd8c1e705732d0330d63991683144811",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657078",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9f5da417-3531-5c41-90fc-f4956311a450",
+    "data": {
+      "title": "State level payment total and averages by Nature of Payment for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYRall_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "df87a2d1f92e021ce30bad642399d352__1703657080__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYRall_P01182024_12172023.csv",
+            "identifier": "df87a2d1f92e021ce30bad642399d352",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657080",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6bc6e50e-13ac-5a89-8e1f-783eb1f1789a",
+    "data": {
+      "title": "2016 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2016_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "3d2a06fa3e236bd1d0bd2b1ba1b7d12e__1703657081__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2016_P01182024_12172023.csv",
+            "identifier": "3d2a06fa3e236bd1d0bd2b1ba1b7d12e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657081",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "efcd070d-e496-5f55-af84-61658f04bcdc",
+    "data": {
+      "title": "2017 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2017_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d7b741115c8a00aa60161bb14a12ee07__1703657083__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2017_P01182024_12172023.csv",
+            "identifier": "d7b741115c8a00aa60161bb14a12ee07",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657083",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "d9ff92d2-466d-50cf-a31e-2cb35412ad73",
+    "data": {
+      "title": "2018 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2018_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b1474eec83850425636208e059017123__1703657085__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2018_P01182024_12172023.csv",
+            "identifier": "b1474eec83850425636208e059017123",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657085",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "56d752bb-b6f5-5d49-917e-436f94c10757",
+    "data": {
+      "title": "2019 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2019_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0cffaa9275c1271909bca906c05bb0a3__1703657086__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2019_P01182024_12172023.csv",
+            "identifier": "0cffaa9275c1271909bca906c05bb0a3",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657086",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "280914aa-db3e-5e5b-bbbb-39e320611410",
+    "data": {
+      "title": "2020 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2020_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "360bf8d981c18dc22906aff8fbda1a2e__1703657088__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2020_P01182024_12172023.csv",
+            "identifier": "360bf8d981c18dc22906aff8fbda1a2e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657088",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "86912ded-9661-52ca-89dc-966d53927be2",
+    "data": {
+      "title": "2021 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2021_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "bc20de59c7fb58337024563a7b367be5__1703657090__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2021_P01182024_12172023.csv",
+            "identifier": "bc20de59c7fb58337024563a7b367be5",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657090",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c035024a-6878-587f-8902-afafed08171e",
+    "data": {
+      "title": "2022 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2022_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "13984851fa911c2f719658203217c0bd__1703657091__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2022_P01182024_12172023.csv",
+            "identifier": "13984851fa911c2f719658203217c0bd",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657091",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "33384c2c-01f8-54f6-b8d4-4bccb378e3df",
+    "data": {
+      "title": "Provider profile ID mapping table",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_PRVDR_PRFL_MAPPING_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "6ee5ce43fd653217c5ca555370576ab7__1703657093__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_PRVDR_PRFL_MAPPING_P01182024_12172023.csv",
+            "identifier": "6ee5ce43fd653217c5ca555370576ab7",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657093",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "77338943-85c8-5cea-b3f2-79a329d3f6d7",
+    "data": {
+      "title": "Payments grouped by reporting entities, covered recipient, and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "f44be41e369337d190c0a853b302e99d__1703657095__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_12172023.csv",
+            "identifier": "f44be41e369337d190c0a853b302e99d",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657095",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9572d01f-b51a-5af4-a052-a6aa5e8cebfe",
+    "data": {
+      "title": "Payments grouped by covered recipient and reporting entities for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYRall_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "6318504ebfebb956cf253288b4d7c064__1703657096__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYRall_P01182024_12172023.csv",
+            "identifier": "6318504ebfebb956cf253288b4d7c064",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657096",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "cf021e71-d886-515f-9ac3-9f732359cff9",
+    "data": {
+      "title": "Payments grouped by physician (distinct) for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_SMRY_P01182024_12172023.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9c6b2cb6c77dada5a5d43a66dd0fa41e__1703657098__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/staging/SMRY_P01182024_12172023/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_SMRY_P01182024_12172023.csv",
+            "identifier": "9c6b2cb6c77dada5a5d43a66dd0fa41e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1703657098",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "755e8737-e4b9-5ed0-bfcf-a91aa3a24da1",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_GNRL_PGYR2016_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "09c31adf9141b15ae31ebd37de71367b__1704494552__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_GNRL_PGYR2016_P01182024.csv",
+            "identifier": "09c31adf9141b15ae31ebd37de71367b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704494552",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9d794b04-97e4-5ac9-9a73-65ac533e3c69",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_RSRCH_PGYR2016_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d3b4ffa720b77ad410758a6b2caaf401__1704494552__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_RSRCH_PGYR2016_P01182024.csv",
+            "identifier": "d3b4ffa720b77ad410758a6b2caaf401",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704494552",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "8c367da7-0822-54a7-968e-2701e81de35f",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_OWNRSHP_PGYR2016_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ac0f770bee55edc6d110dc1bb59c6b51__1704494553__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_OWNRSHP_PGYR2016_P01182024.csv",
+            "identifier": "ac0f770bee55edc6d110dc1bb59c6b51",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704494553",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "fd7e68cb-8e96-516d-817a-ab42c022ffd3",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_GNRL_PGYR2017_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "4f82e442a877a029d1e7a6e56ead0d32__1704497378__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_GNRL_PGYR2017_P01182024.csv",
+            "identifier": "4f82e442a877a029d1e7a6e56ead0d32",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497378",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1ed9f7d9-b1bb-5cd1-9432-7f4f7a1da2aa",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_RSRCH_PGYR2017_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7b33d9da79f78976d81dd91984398a83__1704497378__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_RSRCH_PGYR2017_P01182024.csv",
+            "identifier": "7b33d9da79f78976d81dd91984398a83",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497378",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f628870a-194c-5f60-9d1b-cdd696af5ab7",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_OWNRSHP_PGYR2017_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5ac607821ff5a7a5484cd1c4ba7ba86a__1704497379__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_OWNRSHP_PGYR2017_P01182024.csv",
+            "identifier": "5ac607821ff5a7a5484cd1c4ba7ba86a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497379",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "90afa48e-f943-5ba0-aade-55f83c094487",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_GNRL_PGYR2018_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "632fc4bea5200bf77ffcafa51da86312__1704497383__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_GNRL_PGYR2018_P01182024.csv",
+            "identifier": "632fc4bea5200bf77ffcafa51da86312",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497383",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "d84bef70-5e72-55ab-b7a7-310f1a1a1a0b",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_RSRCH_PGYR2018_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d37370ad2b3dcc0a1e1a5f0b78332fb1__1704497383__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_RSRCH_PGYR2018_P01182024.csv",
+            "identifier": "d37370ad2b3dcc0a1e1a5f0b78332fb1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497383",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "991abb65-05a4-5d84-8c1c-ec6d03004d2d",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_OWNRSHP_PGYR2018_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d243ec44532d7ca4f9204d89e3a5d910__1704497383__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_OWNRSHP_PGYR2018_P01182024.csv",
+            "identifier": "d243ec44532d7ca4f9204d89e3a5d910",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497383",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f6f151f2-a3fe-5667-b1cd-cd054f88d992",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_GNRL_PGYR2019_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "60e9bbe1116d4706219ecd977082779a__1704497387__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_GNRL_PGYR2019_P01182024.csv",
+            "identifier": "60e9bbe1116d4706219ecd977082779a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497387",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "67d7ab83-7eaa-5342-87d3-ac5a48ae9772",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_RSRCH_PGYR2019_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "dd8fb7bda6f72cdb03e7457c10195626__1704497387__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_RSRCH_PGYR2019_P01182024.csv",
+            "identifier": "dd8fb7bda6f72cdb03e7457c10195626",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497387",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "d397b977-a0f9-5cd6-8cfb-b30ba22de8bb",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_OWNRSHP_PGYR2019_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "8cab4d9a5300cb25dcd7c7a54d792ff0__1704497388__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_OWNRSHP_PGYR2019_P01182024.csv",
+            "identifier": "8cab4d9a5300cb25dcd7c7a54d792ff0",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497388",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "4da03195-f672-5972-a640-e3f9289ceaca",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_GNRL_PGYR2020_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0cba7717982049214e61d4e5c28a9c0f__1704497397__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_GNRL_PGYR2020_P01182024.csv",
+            "identifier": "0cba7717982049214e61d4e5c28a9c0f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497397",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "70d8687e-9bc4-51a1-a243-0af8b7df328c",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_RSRCH_PGYR2020_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c14f5c464c73936bfba34ac9df438fa5__1704497397__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_RSRCH_PGYR2020_P01182024.csv",
+            "identifier": "c14f5c464c73936bfba34ac9df438fa5",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497397",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "dc075f31-66e6-5b6b-b01e-840b9d6bb4df",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_OWNRSHP_PGYR2020_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "fa9644d5fa36432e3855ac918358e20d__1704497397__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_OWNRSHP_PGYR2020_P01182024.csv",
+            "identifier": "fa9644d5fa36432e3855ac918358e20d",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497397",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f7a64d65-e552-5cea-8849-a01d76064208",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2021 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_GNRL_PGYR2021_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "a2f25afcf3cd891776f93f10bd30905b__1704497400__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_GNRL_PGYR2021_P01182024.csv",
+            "identifier": "a2f25afcf3cd891776f93f10bd30905b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497400",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9bd627e2-f038-5ac3-bfcf-e1d370a33746",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2021 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_RSRCH_PGYR2021_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b7ead8e886a5dc0d92b2e326b6ee2c90__1704497400__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_RSRCH_PGYR2021_P01182024.csv",
+            "identifier": "b7ead8e886a5dc0d92b2e326b6ee2c90",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497400",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "33b09920-b4f9-59c1-9024-07bb0554ec1a",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2021 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_OWNRSHP_PGYR2021_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d531204ca256a7e9f33b5dd3ed16fb94__1704497400__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_OWNRSHP_PGYR2021_P01182024.csv",
+            "identifier": "d531204ca256a7e9f33b5dd3ed16fb94",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497400",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "66dfcf9a-2a9e-54b7-a0fe-cae3e42f3e8f",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2022 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_GNRL_PGYR2022_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ea60621641a47f9ce30d01ea50f88c1a__1704497404__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_GNRL_PGYR2022_P01182024.csv",
+            "identifier": "ea60621641a47f9ce30d01ea50f88c1a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497404",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "845be348-202e-59e1-a75d-584fa061d2c7",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2022 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_RSRCH_PGYR2022_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "3ee903b79945a7849958cbec461fc41a__1704497404__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_RSRCH_PGYR2022_P01182024.csv",
+            "identifier": "3ee903b79945a7849958cbec461fc41a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497404",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "009c52c4-0d52-5651-853a-e821ad5bad12",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2022 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_OWNRSHP_PGYR2022_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0af51d27648c077acd6bdb1c520d424b__1704497404__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_OWNRSHP_PGYR2022_P01182024.csv",
+            "identifier": "0af51d27648c077acd6bdb1c520d424b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497404",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9d07d031-3338-5ecf-b70c-b90118028159",
+    "data": {
+      "title": "Summary Dashboard - all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PHPRFL_P011824/OP_CVRD_RCPNT_PRFL_SPLMTL_P01182024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "57e933498e302335405ee29603d8ee1e__1704508135__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PHPRFL_P011824/OP_CVRD_RCPNT_PRFL_SPLMTL_P01182024.csv",
+            "identifier": "57e933498e302335405ee29603d8ee1e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508135",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "969ec9b8-8f8a-5731-a901-b9c2fb07981d",
+    "data": {
+      "title": "2016 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c410b25ba2f7e421ed614b02a8ee9a12__1704508428__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_01032024.csv",
+            "identifier": "c410b25ba2f7e421ed614b02a8ee9a12",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508428",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "ef5863f1-a430-54db-af9a-b591331c5df0",
+    "data": {
+      "title": "2017 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "2043e1230881c6b667dcaad0ecf60a17__1704508430__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_01032024.csv",
+            "identifier": "2043e1230881c6b667dcaad0ecf60a17",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508430",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9949631a-b87f-545c-a76d-37ae76f9f3d3",
+    "data": {
+      "title": "2018 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "6fc164f71fe8881511a8532f670108d4__1704508431__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_01032024.csv",
+            "identifier": "6fc164f71fe8881511a8532f670108d4",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508431",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "397a74a7-b503-5f97-8f67-1833e23c525d",
+    "data": {
+      "title": "2019 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d5190ce28f979ca36cb4065054909aa6__1704508433__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_01032024.csv",
+            "identifier": "d5190ce28f979ca36cb4065054909aa6",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508433",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "924af10b-d234-5170-9e62-3fd2df541766",
+    "data": {
+      "title": "2020 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "8f43c8a865227a4be7d62c0595f76756__1704508435__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_01032024.csv",
+            "identifier": "8f43c8a865227a4be7d62c0595f76756",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508435",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "77e2b620-a159-5b34-a3dc-4df5209e468b",
+    "data": {
+      "title": "2021 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "45e39aca4ee873887c2f326279b62cbd__1704508436__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_01032024.csv",
+            "identifier": "45e39aca4ee873887c2f326279b62cbd",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508436",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7f9f82f8-830b-5ce5-8432-a325d16cd6b8",
+    "data": {
+      "title": "2022 payments grouped by reporting entities, covered recipient, and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d590c7a2d79bd93166404555a6af14b9__1704508438__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_01032024.csv",
+            "identifier": "d590c7a2d79bd93166404555a6af14b9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508438",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "3437216b-f364-5db3-88e7-ed9c54090dcf",
+    "data": {
+      "title": "2016 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2016_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "46579fab706a586d3abb487eb672d23e__1704508439__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2016_P01182024_01032024.csv",
+            "identifier": "46579fab706a586d3abb487eb672d23e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508439",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "538cc8b8-6fb7-5806-8984-e8d24a635eb0",
+    "data": {
+      "title": "2017 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2017_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "4a8ee76d25c242a73ed5cc99d30a42a6__1704508441__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2017_P01182024_01032024.csv",
+            "identifier": "4a8ee76d25c242a73ed5cc99d30a42a6",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508441",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "fd264569-91e8-5d35-839c-7b00dc540aa0",
+    "data": {
+      "title": "2018 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2018_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9a11c8baaf048e44865c79b9928f886f__1704508443__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2018_P01182024_01032024.csv",
+            "identifier": "9a11c8baaf048e44865c79b9928f886f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508443",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "08f48940-6f47-5086-910e-e098a7b87869",
+    "data": {
+      "title": "2019 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2019_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "763903d39b144cf4cafd0b7594154894__1704508444__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2019_P01182024_01032024.csv",
+            "identifier": "763903d39b144cf4cafd0b7594154894",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508444",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c75eb9ec-58a6-5b86-ae1e-fc05a7f0094f",
+    "data": {
+      "title": "2020 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2020_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0de37a8c438e48527a9ecf59602ff683__1704508446__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2020_P01182024_01032024.csv",
+            "identifier": "0de37a8c438e48527a9ecf59602ff683",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508446",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "16e0e8c8-c7b4-5279-bfbd-117a8f02390a",
+    "data": {
+      "title": "2021 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2021_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "bfd0020bec83347327d8351d4ed796b1__1704508447__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2021_P01182024_01032024.csv",
+            "identifier": "bfd0020bec83347327d8351d4ed796b1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508447",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "4dac092b-07bf-5e22-ac52-d5ae1befbed0",
+    "data": {
+      "title": "2022 payments grouped by reporting entities and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2022_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c86cab9ad163de5cbff3e2d72a012f37__1704508449__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYR2022_P01182024_01032024.csv",
+            "identifier": "c86cab9ad163de5cbff3e2d72a012f37",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508449",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6777bfcf-665d-5af1-afce-c1f73364de79",
+    "data": {
+      "title": "Payments grouped by reporting entities and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYRall_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "4ea87b3e47f7db949cd30897eedfda14__1704508451__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_NTR_OF_PYMT_PGYRall_P01182024_01032024.csv",
+            "identifier": "4ea87b3e47f7db949cd30897eedfda14",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508451",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "629f2c69-dd35-59d7-b242-c177544a546c",
+    "data": {
+      "title": "2016 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "fb1ccfece2f86c2ab9955e44c4b3c320__1704508452__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2016_P01182024_01032024.csv",
+            "identifier": "fb1ccfece2f86c2ab9955e44c4b3c320",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508452",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a04b890f-4a4a-5d7b-a26c-379b61897bbb",
+    "data": {
+      "title": "2017 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "446dc94451243f1beebfce6843e49aba__1704508454__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2017_P01182024_01032024.csv",
+            "identifier": "446dc94451243f1beebfce6843e49aba",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508454",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6b63fd4f-6594-55f9-b805-d3cc5adc38cf",
+    "data": {
+      "title": "2018 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "70b3adbbc6dfa84cb5927e44baf95e57__1704508456__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2018_P01182024_01032024.csv",
+            "identifier": "70b3adbbc6dfa84cb5927e44baf95e57",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508456",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "cd0a3a3d-892e-5ef0-8acd-4c43f75bec3b",
+    "data": {
+      "title": "2019 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ca7a9240a311faad0be695b3e5deec67__1704508457__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2019_P01182024_01032024.csv",
+            "identifier": "ca7a9240a311faad0be695b3e5deec67",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508457",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "106a262d-92d0-5557-8657-83afb835e845",
+    "data": {
+      "title": "2020 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5f2a3bcd65510fb496f82ac887882956__1704508459__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2020_P01182024_01032024.csv",
+            "identifier": "5f2a3bcd65510fb496f82ac887882956",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508459",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "3d11ddd4-01cb-5850-b4f5-d451f44e16e7",
+    "data": {
+      "title": "2021 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7bb3a52387338745b5b8ec1b069aefdc__1704508460__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2021_P01182024_01032024.csv",
+            "identifier": "7bb3a52387338745b5b8ec1b069aefdc",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508460",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a78ec4a6-b6fd-53df-8fbc-57416703f9c4",
+    "data": {
+      "title": "2022 payments grouped by covered recipient and nature of payments",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5f22fcfe88abc9578cc946a5163fce34__1704508462__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYR2022_P01182024_01032024.csv",
+            "identifier": "5f22fcfe88abc9578cc946a5163fce34",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508462",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a607498d-988d-5dbd-b877-bf6e886ba284",
+    "data": {
+      "title": "Payments grouped by covered recipient and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "3e1d3275ced4816bc21df73664e21edb__1704508464__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_01032024.csv",
+            "identifier": "3e1d3275ced4816bc21df73664e21edb",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508464",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6532613c-f1f4-5931-bb30-dcd54c4570fb",
+    "data": {
+      "title": "Summary Dashboard - all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_DSHBRD_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c8962e32aab7cbe07d54e2cd386adaed__1704508466__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_DSHBRD_P01182024_01032024.csv",
+            "identifier": "c8962e32aab7cbe07d54e2cd386adaed",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508466",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "55c11b84-c665-598c-a72a-3db6d9bd83d6",
+    "data": {
+      "title": "National level payment total and averages for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTNL_SMRY_P01182024_01032024-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "bd2fe61106dc594dc1cb06e2d6ed80b9__1704508467__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTNL_SMRY_P01182024_01032024-joined.csv",
+            "identifier": "bd2fe61106dc594dc1cb06e2d6ed80b9",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508467",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "4511df79-fd3a-5676-ad3a-0608af693541",
+    "data": {
+      "title": "Physician (distinct) profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_PRFL_SRCH_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b40d61dcf1a3a42dc27f63b3d472f92f__1704508469__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_PRFL_SRCH_P01182024_01032024.csv",
+            "identifier": "b40d61dcf1a3a42dc27f63b3d472f92f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508469",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c4a3cdfb-af92-58a7-bcf8-91a5974d4b83",
+    "data": {
+      "title": "Reporting entity profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_RPTG_ORG_PRFL_SRCH_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e3ceef55f19d792b2ae9f8c2d94cf4ad__1704508471__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_RPTG_ORG_PRFL_SRCH_P01182024_01032024.csv",
+            "identifier": "e3ceef55f19d792b2ae9f8c2d94cf4ad",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508471",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "627286ce-b1c7-560a-929a-c47f6b390a50",
+    "data": {
+      "title": "Payments grouped by reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_RPTG_ORG_SMRY_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "92f963eedcf69afca1aaea00cf735853__1704508473__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_RPTG_ORG_SMRY_P01182024_01032024.csv",
+            "identifier": "92f963eedcf69afca1aaea00cf735853",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508473",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "edbca6a4-2427-5ea2-a06c-2f8929f67b00",
+    "data": {
+      "title": "2016 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2016_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "76e3510642315c9e32caa2f79036a960__1704508474__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2016_P01182024_01032024.csv",
+            "identifier": "76e3510642315c9e32caa2f79036a960",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508474",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "c8a05587-a025-5a1b-b258-2dd187fd61f0",
+    "data": {
+      "title": "2017 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2017_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9a48f2fc21e3d47c07792f4f666db071__1704508476__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2017_P01182024_01032024.csv",
+            "identifier": "9a48f2fc21e3d47c07792f4f666db071",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508476",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f6f8c10e-b5b8-5b99-84e3-57efe055e4a9",
+    "data": {
+      "title": "2018 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2018_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "f5a2bc7914569ab4970472d4b8fb8fe5__1704508478__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2018_P01182024_01032024.csv",
+            "identifier": "f5a2bc7914569ab4970472d4b8fb8fe5",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508478",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6ed67e1e-409a-50e8-9fca-772c0ab3babd",
+    "data": {
+      "title": "2019 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2019_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c1c4672f5e5fe26b16e27ca241ae4b6c__1704508479__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2019_P01182024_01032024.csv",
+            "identifier": "c1c4672f5e5fe26b16e27ca241ae4b6c",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508479",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "80be12bd-4103-5f30-94ec-2311dc0192a8",
+    "data": {
+      "title": "2020 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2020_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "522fb5810afc755abadafe9233a5bdda__1704508481__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2020_P01182024_01032024.csv",
+            "identifier": "522fb5810afc755abadafe9233a5bdda",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508481",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a8dc956d-df3d-582d-b66a-d99371ad2214",
+    "data": {
+      "title": "2021 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2021_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "233e74c8821c181da9dd8f2712c7a1f2__1704508482__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2021_P01182024_01032024.csv",
+            "identifier": "233e74c8821c181da9dd8f2712c7a1f2",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508482",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "dcc0af01-7717-5e9e-b481-af79a32701b5",
+    "data": {
+      "title": "2022 payments grouped by covered recipient and reporting entities",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2022_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "2c1d3a2b360273b14f3ab38d80f5094b__1704508484__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYR2022_P01182024_01032024.csv",
+            "identifier": "2c1d3a2b360273b14f3ab38d80f5094b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508484",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "93e864b1-6282-5253-9f6f-cd5ae6fc8883",
+    "data": {
+      "title": "National level payment total and averages by provider specialty for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SPLTY_SMRY_P01182024_01032024-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "e52c997a134393ef2892dc375e7ca3f4__1704508486__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SPLTY_SMRY_P01182024_01032024-joined.csv",
+            "identifier": "e52c997a134393ef2892dc375e7ca3f4",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508486",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "719aadbe-dfdd-59c2-b10b-79a568753257",
+    "data": {
+      "title": "Teaching Hospital profile information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_TH_PRFL_SRCH_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "a8e52b205beaa49420d57bc710e34cbd__1704508488__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_TH_PRFL_SRCH_P01182024_01032024.csv",
+            "identifier": "a8e52b205beaa49420d57bc710e34cbd",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508488",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "bb2f89c4-aa07-55b0-b356-4592a1c204a7",
+    "data": {
+      "title": "Payments grouped by Teaching Hospital",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_TH_SMRY_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "9a18d9f728ee87033d92005944f9baa3__1704508489__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_TH_SMRY_P01182024_01032024.csv",
+            "identifier": "9a18d9f728ee87033d92005944f9baa3",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508489",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "eb4ccfa9-2d00-5854-9b05-4572e6fc8f66",
+    "data": {
+      "title": "Profile Information",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/all-entities-profile-search.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5f9d0dda32f894650e1cf504ca2fac95__1704508491__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/all-entities-profile-search.csv",
+            "identifier": "5f9d0dda32f894650e1cf504ca2fac95",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508491",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "1f4bcbe4-0db1-5b64-a16d-e97849a7b80b",
+    "data": {
+      "title": "State level payment total and averages for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_STATE_SMRY_P01182024_01032024-joined.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "33ed75b1bfc512d7f4ed139bd8f40f3a__1704508493__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_STATE_SMRY_P01182024_01032024-joined.csv",
+            "identifier": "33ed75b1bfc512d7f4ed139bd8f40f3a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508493",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9aec3328-77a5-526d-9a8b-fc5cd4211883",
+    "data": {
+      "title": "State level payment total and averages by Nature of Payment for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYRall_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d191c42d187bdf2306a49805351430d1__1704508495__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYRall_P01182024_01032024.csv",
+            "identifier": "d191c42d187bdf2306a49805351430d1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508495",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f6e68904-b183-547a-8cee-7b8b3b685898",
+    "data": {
+      "title": "2016 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2016_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "73980383988d36d4b76c55d144134452__1704508496__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2016_P01182024_01032024.csv",
+            "identifier": "73980383988d36d4b76c55d144134452",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508496",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "aff8e1ff-0400-57dd-854f-4520cf751f5f",
+    "data": {
+      "title": "2017 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2017_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "128556f458cb8faf72bbaa6571bbd711__1704508498__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2017_P01182024_01032024.csv",
+            "identifier": "128556f458cb8faf72bbaa6571bbd711",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508498",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "61a785e0-2ee0-5431-82cc-58a17bfd0cde",
+    "data": {
+      "title": "2018 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2018_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "35af6cdf3837a19aca5c1a8d52b632d1__1704508500__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2018_P01182024_01032024.csv",
+            "identifier": "35af6cdf3837a19aca5c1a8d52b632d1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508500",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "0ee516ce-563f-5943-ad29-fbf7f8ffd92e",
+    "data": {
+      "title": "2019 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2019_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0b475adcf1a117ad26c5653cf1318228__1704508501__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2019_P01182024_01032024.csv",
+            "identifier": "0b475adcf1a117ad26c5653cf1318228",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508501",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f4efc93b-1e39-59be-93c5-f5c2f2b58f46",
+    "data": {
+      "title": "2020 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2020_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "60307458cfbf83819b739f1a644c2d4a__1704508503__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2020_P01182024_01032024.csv",
+            "identifier": "60307458cfbf83819b739f1a644c2d4a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508503",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6fb09b77-c195-5e10-8ee4-98a1f70b9218",
+    "data": {
+      "title": "2021 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2021_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "3765223483d51e2e35e8f26d400904a1__1704508505__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2021_P01182024_01032024.csv",
+            "identifier": "3765223483d51e2e35e8f26d400904a1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508505",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "90dbe240-1d1f-50db-ab8e-f31387bdf77a",
+    "data": {
+      "title": "2022 state-level payment total and averages by Nature of Payment",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2022_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b336679b207cc50add8e8a198b25bfce__1704508506__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_NTR_OF_PYMT_BY_STATE_SMRY_PGYR2022_P01182024_01032024.csv",
+            "identifier": "b336679b207cc50add8e8a198b25bfce",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508506",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "00226c56-486d-59a4-b2cf-38a0196aa3a5",
+    "data": {
+      "title": "Provider profile ID mapping table",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_PRVDR_PRFL_MAPPING_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "10f9456bffd85d85f4a4ba5f440fdce4__1704508508__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_PRVDR_PRFL_MAPPING_P01182024_01032024.csv",
+            "identifier": "10f9456bffd85d85f4a4ba5f440fdce4",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508508",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "497863a0-d3e6-50d6-b5c8-5ad36d522b12",
+    "data": {
+      "title": "Payments grouped by reporting entities, covered recipient, and nature of payments for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "761b5c4d9e7d87c5b3429645901a4be7__1704508510__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_AMGPO_BY_CR_BY_NTR_OF_PYMT_PGYRall_P01182024_01032024.csv",
+            "identifier": "761b5c4d9e7d87c5b3429645901a4be7",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508510",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "a02dd934-6503-53d1-9600-89edf0f57772",
+    "data": {
+      "title": "Payments grouped by covered recipient and reporting entities for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYRall_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0293723c6dfd413089e7b1bb1d9a99a2__1704508511__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_SMRY_BY_CR_BY_AMGPO_PGYRall_P01182024_01032024.csv",
+            "identifier": "0293723c6dfd413089e7b1bb1d9a99a2",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508511",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "6ea562f0-0771-527d-846e-54b48f30b9dc",
+    "data": {
+      "title": "Payments grouped by physician (distinct) for all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_SMRY_P01182024_01032024.csv",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "af8b77072696f0aff93da5086f544a64__1704508513__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/SMRY_P01182024/PBLCTN_PHYSN_NON_PHYSN_PRCTNR_SMRY_P01182024_01032024.csv",
+            "identifier": "af8b77072696f0aff93da5086f544a64",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508513",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "426c201c-4c68-50ed-9c9b-bbf7d1f2766a",
+    "data": {
+      "title": "Summary Dashboard - all years",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PHPRFL_P011824/OP_CVRD_RCPNT_PRFL_SPLMTL_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/80796264-d7e9-57cd-8133-2a2a14b1647b",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "57e933498e302335405ee29603d8ee1e__1704508135__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PHPRFL_P011824/OP_CVRD_RCPNT_PRFL_SPLMTL_P01182024.csv",
+            "identifier": "57e933498e302335405ee29603d8ee1e",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704508135",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "39f4a41a-f1cd-51e7-919c-0f3bec9e2c4f",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_GNRL_PGYR2016_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "09c31adf9141b15ae31ebd37de71367b__1704494552__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_GNRL_PGYR2016_P01182024.csv",
+            "identifier": "09c31adf9141b15ae31ebd37de71367b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704494552",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "ebd65e87-c746-5979-a925-369e7f1f3482",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_GNRL_PGYR2017_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "4f82e442a877a029d1e7a6e56ead0d32__1704497378__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_GNRL_PGYR2017_P01182024.csv",
+            "identifier": "4f82e442a877a029d1e7a6e56ead0d32",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497378",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "be46ac57-c1db-5a89-9879-4014974a671e",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_GNRL_PGYR2018_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "632fc4bea5200bf77ffcafa51da86312__1704497383__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_GNRL_PGYR2018_P01182024.csv",
+            "identifier": "632fc4bea5200bf77ffcafa51da86312",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497383",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7c800080-539f-5090-a24c-feec68e6b98d",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_GNRL_PGYR2019_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "60e9bbe1116d4706219ecd977082779a__1704497387__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_GNRL_PGYR2019_P01182024.csv",
+            "identifier": "60e9bbe1116d4706219ecd977082779a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497387",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "eb82e67e-2f60-5eb4-9681-90205a4847de",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_GNRL_PGYR2020_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0cba7717982049214e61d4e5c28a9c0f__1704497397__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_GNRL_PGYR2020_P01182024.csv",
+            "identifier": "0cba7717982049214e61d4e5c28a9c0f",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497397",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "0e4bd5b3-eb80-57b3-9b49-3db89212d7c5",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2021 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_GNRL_PGYR2021_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "a2f25afcf3cd891776f93f10bd30905b__1704497400__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_GNRL_PGYR2021_P01182024.csv",
+            "identifier": "a2f25afcf3cd891776f93f10bd30905b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497400",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "9237b925-2a6d-5acf-a914-d3dc0ce74807",
+    "data": {
+      "title": "General Payment Data – Detailed Dataset 2022 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_GNRL_PGYR2022_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/71ec19df-f5ef-5b99-b43b-e566e22670b7",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ea60621641a47f9ce30d01ea50f88c1a__1704497404__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_GNRL_PGYR2022_P01182024.csv",
+            "identifier": "ea60621641a47f9ce30d01ea50f88c1a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497404",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "54e928cd-9868-5cb4-9de2-51627f8e7428",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_OWNRSHP_PGYR2016_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "ac0f770bee55edc6d110dc1bb59c6b51__1704494553__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_OWNRSHP_PGYR2016_P01182024.csv",
+            "identifier": "ac0f770bee55edc6d110dc1bb59c6b51",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704494553",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "f340c35e-966c-535f-8d82-8aeea5e693f0",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_OWNRSHP_PGYR2017_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "5ac607821ff5a7a5484cd1c4ba7ba86a__1704497379__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_OWNRSHP_PGYR2017_P01182024.csv",
+            "identifier": "5ac607821ff5a7a5484cd1c4ba7ba86a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497379",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "8a1c72a5-a728-58d2-aa9a-5e4ac0f40598",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_OWNRSHP_PGYR2018_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d243ec44532d7ca4f9204d89e3a5d910__1704497383__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_OWNRSHP_PGYR2018_P01182024.csv",
+            "identifier": "d243ec44532d7ca4f9204d89e3a5d910",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497383",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "663b7f89-962c-5da6-8bdb-e7b2f87a5764",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_OWNRSHP_PGYR2019_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "8cab4d9a5300cb25dcd7c7a54d792ff0__1704497388__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_OWNRSHP_PGYR2019_P01182024.csv",
+            "identifier": "8cab4d9a5300cb25dcd7c7a54d792ff0",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497388",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "70aeb225-beb1-5d1d-800e-6160fc1f9c84",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_OWNRSHP_PGYR2020_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "fa9644d5fa36432e3855ac918358e20d__1704497397__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_OWNRSHP_PGYR2020_P01182024.csv",
+            "identifier": "fa9644d5fa36432e3855ac918358e20d",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497397",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "22b215e0-d403-52bc-9ead-4c7aaf4b5b56",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2021 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_OWNRSHP_PGYR2021_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d531204ca256a7e9f33b5dd3ed16fb94__1704497400__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_OWNRSHP_PGYR2021_P01182024.csv",
+            "identifier": "d531204ca256a7e9f33b5dd3ed16fb94",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497400",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "b3ab02b2-cd12-5081-bfab-980f83a08ae6",
+    "data": {
+      "title": "Ownership Payment Data - Detailed Dataset 2022 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_OWNRSHP_PGYR2022_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/0b7b03cb-835c-50c4-abbb-5a311eb91858",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "0af51d27648c077acd6bdb1c520d424b__1704497404__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_OWNRSHP_PGYR2022_P01182024.csv",
+            "identifier": "0af51d27648c077acd6bdb1c520d424b",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497404",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "458d12b9-612d-5ce1-9367-141d08aec279",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2016 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_RSRCH_PGYR2016_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d3b4ffa720b77ad410758a6b2caaf401__1704494552__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR16_P011824/OP_DTL_RSRCH_PGYR2016_P01182024.csv",
+            "identifier": "d3b4ffa720b77ad410758a6b2caaf401",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704494552",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7f296998-f0aa-5979-963c-9090667571c0",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2017 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_RSRCH_PGYR2017_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "7b33d9da79f78976d81dd91984398a83__1704497378__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR17_P011824/OP_DTL_RSRCH_PGYR2017_P01182024.csv",
+            "identifier": "7b33d9da79f78976d81dd91984398a83",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497378",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "2db1f3de-4daa-59ab-a24f-eec99edfcdd1",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2018 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_RSRCH_PGYR2018_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "d37370ad2b3dcc0a1e1a5f0b78332fb1__1704497383__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR18_P011824/OP_DTL_RSRCH_PGYR2018_P01182024.csv",
+            "identifier": "d37370ad2b3dcc0a1e1a5f0b78332fb1",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497383",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "e68d7119-aca4-5e31-8f08-0b15a80f03bf",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2019 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_RSRCH_PGYR2019_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "dd8fb7bda6f72cdb03e7457c10195626__1704497387__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR19_P011824/OP_DTL_RSRCH_PGYR2019_P01182024.csv",
+            "identifier": "dd8fb7bda6f72cdb03e7457c10195626",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497387",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "7bf4b7d5-a271-55c6-bc72-a99a01f6a6b7",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2020 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_RSRCH_PGYR2020_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "c14f5c464c73936bfba34ac9df438fa5__1704497397__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR20_P011824/OP_DTL_RSRCH_PGYR2020_P01182024.csv",
+            "identifier": "c14f5c464c73936bfba34ac9df438fa5",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497397",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "5f031d2f-7121-5732-963a-4f229fb561a8",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2021 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_RSRCH_PGYR2021_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "b7ead8e886a5dc0d92b2e326b6ee2c90__1704497400__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR21_P011824/OP_DTL_RSRCH_PGYR2021_P01182024.csv",
+            "identifier": "b7ead8e886a5dc0d92b2e326b6ee2c90",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497400",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "identifier": "54e0ee29-5733-5c0f-8547-cb5deb05a965",
+    "data": {
+      "title": "Research Payment Data – Detailed Dataset 2022 Reporting Year",
+      "mediaType": "text/csv",
+      "format": "csv",
+      "downloadURL": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_RSRCH_PGYR2022_P01182024.csv",
+      "describedBy": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/data-dictionary/items/618ebb0f-b9c8-5efd-a374-bd8e7665d5f8",
+      "describedByType": "application/vnd.tableschema+json",
+      "%Ref:downloadURL": [
+        {
+          "identifier": "3ee903b79945a7849958cbec461fc41a__1704497404__source",
+          "data": {
+            "filePath": "https://download.cms.gov/openpayments/PGYR22_P011824/OP_DTL_RSRCH_PGYR2022_P01182024.csv",
+            "identifier": "3ee903b79945a7849958cbec461fc41a",
+            "mimeType": "text/csv",
+            "perspective": "source",
+            "version": "1704497404",
+            "checksum": null
+          }
+        }
+      ]
+    }
+  }
+]
