@@ -4,27 +4,9 @@ import os
 import pandas as pd
 import requests
 import time
-from src.database_manager import DatabaseManager
+from src.constants import *
+from src.db_manager import DBManager
 from typing import Any, Dict
-
-HOST = 'https://openpaymentsdata.cms.gov/api/1'
-ENDPOINT = '/datastore/query'
-DATASET = '2022_general'
-
-DATASET_IDS = {
-    '2022_general': '66dfcf9a-2a9e-54b7-a0fe-cae3e42f3e8f',
-    '2021_general': '0e4bd5b3-eb80-57b3-9b49-3db89212d7c5',
-    '2020_general': 'e51be53b-ed10-5fa5-819b-7c2474fbdea9',
-    '2019_general': '5e08488e-eadd-5e82-a4f0-01a540ea0917',
-    '2018_general': 'd6a4c192-42c9-5f36-85eb-4ab2f16bb8da',
-    '2017_general': 'fd7e68cb-8e96-516d-817a-ab42c022ffd3',
-    '2016_general': '02ed78a8-85e9-53a3-b1ec-2869cfc236fd',
-}
-
-STATES = ['NM', 'MA', 'NY', 'IL', 'MI', 'TX', 'NJ', 'PA', 'AZ', 'WA']
-
-LIMIT = 500
-BATCH = 100
 
 
 def build_request(
@@ -59,9 +41,7 @@ def build_request(
 
 
 def get_request_body(offset = 0, limit = 100, format = 'json'):
-    if limit > 500: limit = 500 
-
-    body = {
+    return {
         "conditions": [
             {
                 "resource": "t",
@@ -81,13 +61,11 @@ def get_request_body(offset = 0, limit = 100, format = 'json'):
         "offset": offset,
         "resources": [
             {
-                "id": DATASET_IDS['2022_general'],
+                "id": DATASET_IDS[DATASET],
                 "alias": "t"
             }
         ]
     }
-
-    return body
 
 
 def get_metadata():
@@ -115,18 +93,17 @@ def get_metadata():
             print('Error: ', error)
 
 
-def fetch_data(start_page: int, total_pages: int, database_manager: DatabaseManager) -> None:
+def fetch_data(start_page: int, total_pages: int, db_manager: DBManager) -> None:
     if start_page == 1:
-        database_manager.create_table()
+        db_manager.create_table()
 
-    database_manager.open()
+    db_manager.open()
 
     with requests.Session() as session:
         for page in range(start_page, total_pages + 1):
-            print(f'{page}/{total_pages}')
+            print(f'\r{" " * 50}\r{page}/{total_pages} GET ', end='')
 
             body = get_request_body(page * LIMIT, LIMIT)
-
             request = build_request('POST', HOST, ENDPOINT, {}, {}, body)
 
             response = session.send(request)
@@ -134,31 +111,37 @@ def fetch_data(start_page: int, total_pages: int, database_manager: DatabaseMana
 
             data = response.json()['results']
 
+            print(f'\r{" " * 50}\r{page}/{total_pages} WRITE ', end='')
+
             for index, row in enumerate(data):
-                database_manager.insert_row(row)
+                db_manager.insert_row(row)
 
                 if index % BATCH == 0:
-                    database_manager.commit()
+                    db_manager.commit()
 
-            database_manager.write_progress(page)
+            db_manager.write_progress(page)
 
             time.sleep(0.5)
 
-    database_manager.close()
+    print('\r{" " * 50}\rCompleted all {total_pages} pages.', end='')
+
+    db_manager.close()
 
 
 def run():
     os.makedirs('data/json', exist_ok=True)
     os.makedirs('data/log', exist_ok=True)
 
-    database_manager = DatabaseManager()
+    db_manager = DBManager()
 
     metadata = get_metadata()
     total_pages = math.ceil(metadata['count'] / LIMIT)
 
     print(f'Total Pages: {total_pages}')
 
-    fetch_data(1, total_pages, database_manager)
+    start_page = db_manager.read_progress()
+
+    fetch_data(start_page, total_pages, db_manager)
 
 
 if __name__ == '__main__':
