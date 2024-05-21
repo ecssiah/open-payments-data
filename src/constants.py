@@ -1,5 +1,12 @@
 HOST = 'https://openpaymentsdata.cms.gov/api/1'
 ENDPOINT = '/datastore/query'
+
+LIMIT = 500
+RATE_LIMIT = 100
+DELAY = 60 / RATE_LIMIT
+
+STATES = ['NM', 'MA', 'NY', 'IL', 'MI', 'TX', 'NJ', 'PA', 'AZ', 'WA']
+
 DATASET = '2022_GENERAL'
 
 DATASET_IDS = {
@@ -11,11 +18,6 @@ DATASET_IDS = {
     '2017_GENERAL': 'fd7e68cb-8e96-516d-817a-ab42c022ffd3',
     '2016_GENERAL': '02ed78a8-85e9-53a3-b1ec-2869cfc236fd',
 }
-
-STATES = ['NM', 'MA', 'NY', 'IL', 'MI', 'TX', 'NJ', 'PA', 'AZ', 'WA']
-
-LIMIT = 500
-BATCH = 100
 
 FIELDS = [
     'covered_recipient_type',

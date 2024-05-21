@@ -1,11 +1,10 @@
 import json
 import math
-import os
-import pandas as pd
 import requests
-import time
 from src.constants import *
 from src.db_manager import DBManager
+from src.paths import Paths
+import time
 from typing import Any, Dict
 
 
@@ -17,30 +16,29 @@ def build_request(
     params: Dict[str, Any] = None,
     body: Dict[str, Any] = None
 ):
+    request = None
     method = method.upper()
     base_url = f"{hostname}{endpoint}"
 
-    if method.upper() == 'GET':
+    if method == 'GET':
         request = requests.Request(
             method, 
             base_url, 
             params=params,
             headers=headers
         ).prepare()
-
-        return request
-    elif method.upper() == 'POST':
+    elif method == 'POST':
         request = requests.Request(
             method,
             base_url,
             json=body,
             headers=headers
         ).prepare()
-        
-        return request
+
+    return request
 
 
-def get_request_body(offset = 0, limit = 100, format = 'json'):
+def get_request_body(offset = 0, limit = LIMIT, format = 'json'):
     return {
         "conditions": [
             {
@@ -71,7 +69,7 @@ def get_request_body(offset = 0, limit = 100, format = 'json'):
 def get_metadata():
     body = get_request_body(0, 1)
 
-    request = build_request('POST', HOST, ENDPOINT, {}, {}, body)
+    request = build_request('POST', HOST, ENDPOINT, body=body)
 
     with requests.Session() as session:
         response = session.send(request)
@@ -94,17 +92,18 @@ def get_metadata():
 
 
 def fetch_data(start_page: int, total_pages: int, db_manager: DBManager) -> None:
-    if start_page == 1:
+    if start_page < 2:
+        start_page = 1
         db_manager.create_table()
 
     db_manager.open()
 
     with requests.Session() as session:
         for page in range(start_page, total_pages + 1):
-            print(f'\r{" " * 50}\r{page}/{total_pages} GET ', end='')
+            print(f'\r{" " * 50}\r{page}/{total_pages} REQUEST ', end='')
 
-            body = get_request_body(page * LIMIT, LIMIT)
-            request = build_request('POST', HOST, ENDPOINT, {}, {}, body)
+            body = get_request_body(page * LIMIT)
+            request = build_request('POST', HOST, ENDPOINT, body=body)
 
             response = session.send(request)
             response.raise_for_status()
@@ -113,35 +112,34 @@ def fetch_data(start_page: int, total_pages: int, db_manager: DBManager) -> None
 
             print(f'\r{" " * 50}\r{page}/{total_pages} WRITE ', end='')
 
-            for index, row in enumerate(data):
+            for row in data:
                 db_manager.insert_row(row)
 
-                if index % BATCH == 0:
-                    db_manager.commit()
-
+            db_manager.commit()
             db_manager.write_progress(page)
 
-            time.sleep(0.5)
+            time.sleep(DELAY)
 
-    print('\r{" " * 50}\rCompleted all {total_pages} pages.', end='')
+    print(f'\nComplete')
 
     db_manager.close()
 
 
 def run():
-    os.makedirs('data/json', exist_ok=True)
-    os.makedirs('data/log', exist_ok=True)
+    Paths.initialize()
 
     db_manager = DBManager()
 
-    metadata = get_metadata()
-    total_pages = math.ceil(metadata['count'] / LIMIT)
+    # metadata = get_metadata()
+    # total_pages = math.ceil(metadata['count'] / LIMIT)
 
-    print(f'Total Pages: {total_pages}')
+    # print(f'Total Pages: {total_pages}')
 
-    start_page = db_manager.read_progress()
+    # last_page = db_manager.read_progress()
 
-    fetch_data(start_page, total_pages, db_manager)
+    # fetch_data(last_page + 1, total_pages, db_manager)
+
+    db_manager.write_csv()
 
 
 if __name__ == '__main__':
